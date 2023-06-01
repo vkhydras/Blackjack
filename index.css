@@ -47,12 +47,12 @@ img{
     height: 75px;
     margin: auto;
 }
-@media only screen and(max-width:480px){
+@media only screen and(max-width:680px){
     .container{
         background-image: url("./img/image_search_1685601667001.jpg");
         background-size: cover;
         width: 500px;
-        height: 500px;
+        height: 700px;
         margin: auto;
         text-align: center;
         
